@@ -1,0 +1,86 @@
+name: FORM - Specification Term Change Request
+description: An issue form for submitting picklist term change requests
+title: "CTR: [current term label]"
+labels: ["term request"]
+body:
+  - type: input
+    id: current-term-label
+    attributes:
+      label: Current Term Label
+      description: 
+      placeholder: ex. Canada
+    validations:
+      required: true
+  - type: input
+    id: current-term-id
+    attributes: 
+      label: Ontology ID or PURL
+      description: The field identifier (can be found in reference guides).
+      placeholder: ex. GAZ:00002560
+    validations:
+      required: true
+  - type: input
+    id: current-field
+    attributes:
+      label: Associated Field(s)
+      description: The field(s) for which this term is associated within the specification.
+      placeholder: ex. geo_loc_name (country), host_origin geo_loc (country)
+    validations:
+      required: true
+  - type: input
+    id: change-field
+    attributes: 
+      label: Change - Associated Field(s)
+      description: Change request for the fields where this field is used (e.g. add to a different field, remove from field, etc.).
+      placeholder: 
+    validations:
+      required: false
+  - type: input
+    id: change-term-label
+    attributes: 
+      label: Change - Label
+      description: Change request for the term label.
+      placeholder: 
+    validations:
+      required: false
+  - type: textarea
+    id: change-term-description
+    attributes: 
+      label: Change - Description
+      description: Change request for the term definition/description.
+      placeholder: 
+    validations:
+      required: false
+  - type: textarea
+    id: change-term-guidance
+    attributes: 
+      label: Change - Guidance
+      description: Change request for the term guidance - which clarifies how it is used within this specification.
+      placeholder: 
+    validations:
+      required: false
+  - type: input
+    id: change-term-synonym
+    attributes: 
+      label: Change - Synonym(s) or Alternative Label(s)
+      description: Request to change existing or add to the listed field synonyms or alternative labels.
+      placeholder: 
+    validations:
+      required: false
+  - type: textarea
+    id: additional-comments
+    attributes:
+      label: Additional Comments (not an annotation)
+      description: Other information or context you would like the curator(s) to know.
+      placeholder: 
+      value: 
+    validations:
+      required: false
+  - type: input
+    id: contributor
+    attributes: 
+      label: Optional - Contributor Attribution
+      description: Your contributor information (ORCiD preferred) to add the term, within the ontology, if change(s) are accepted.
+      placeholder: 0000-0002-1825-0097 or https://orcid.org/0000-0002-1825-0097
+    validations:
+      required: false
