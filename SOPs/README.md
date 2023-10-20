@@ -1,4 +1,4 @@
-# <INSERT NAME> Curation Standard Operating Procedures
+# Wastewater Curation Standard Operating Procedures
 
 The contents of this directory include standard operating procedure(s) (SOP) to accompany the template-based implementation of the <INSERT NAME> contextual data specification.
 
