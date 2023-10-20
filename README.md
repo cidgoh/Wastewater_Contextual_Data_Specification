@@ -1,8 +1,8 @@
-# The <insert name> Contextual Data Specification
+# The Wastewater Contextual Data Specification
 
   - [About](#about)
   - [What are ontologies and how do they improve data quality?](#what-are-ontologies-and-how-do-they-improve-data-quality)
-  - [The  Contextual Data Specification Package](#the--contextual-data-specification-package)
+  - [The Wastewater Contextual Data Specification Package](#the--contextual-data-specification-package)
     - [Version Control](#version-control)
     - [Package Contents](#package-contents)
       - [Data Collection Template](#data-collection-template)
@@ -16,8 +16,11 @@
 
 ## About
 
-<Blurb>
-<SETUP: you'll need to manual create "term request" and "field request" labels in order for the issue forms to apply them when generated. You'll also want to go through documentation and replace all the <INSERT> values with appropriate information.>
+Wastewater genomics data is increasingly being used to support a wide variety of surveillance programs and research to support public health decision making and responses e.g. detection and monitoring of emerging and existing pathogens, detection and characterization of antimicrobial resistance (AMR) determinants, quantifying infectious disease genotypes and assessing prevalence, etc. These activities often require information about sample types (environmental sites and materials), surveillance and sampling scope (target organisms, sampling strategies, wastewater systems, frequency and duration of testing, devices and methods of collection), sequencing and enrichment methods (amplicon sequencing, WGS, metagenomics; bait-capture, filtering; sequencing instrument), bioinformatics processing and quality control metrics (software, pipelines, reference databases, coverage, total/mapped reads), as well as contributor information for establishing chains of custody and for follow-up.  
+
+Wastewater genomic surveillance often involves data streams originating from different sources, agencies, sectors, and information management systems. These data are generally structured in a variety of ways posing challenges for data harmonization, integration and meaningful interpretation. By structuring contextual data using data standards, this information can be more easily understood and used by both humans and computers and can be more easily reused for different types of analyses. Standards providing guidance on which data elements are the most informative for different public health analyses, as well as any issues regarding their privacy and sensitivity, is also critical.
+
+The Wastewater Contextual Data Specification is based on a framework that has been applied to other Canadian pathogen genomic surveillance data standards (e.g. SARS-CoV-2, Mpox, influenza, One Health AMR). It capitalizes on an ontology-based approach to building and supporting interoperability. The specification is being co-developed by CIDGOH, the Public Health Agency of Canada, the Public Health Alliance for Genomic Epidemiology (PHA4GE), and the Bill & Melinda Gates Foundation.
 
 ## What are ontologies and how do they improve data quality?
 
@@ -25,7 +28,7 @@ Labs collect, encode and store information in different ways. They use different
 
 Ontologies are collections of controlled vocabulary that are arranged in a hierarchy, where all the terms are linked using logical relationships. Ontologies are open source and meant to represent “universal truth” as much as possible (so not tied to one organization’s vocabulary of use case). Ontologies encode synonyms, which enables mapping between the specific languages used by different organizations, and every term in the ontology is assigned a globally unique and persistent identifier. Using ontology terms to standardize GRDI-AMR contextual data not only helps make data more interoperable by using a common language, it also helps to make contextual data [FAIR](https://www.go-fair.org/fair-principles/) (Findable, Accessible, Interoperable, Reusable).
 
-## The <insert name> Contextual Data Specification Package
+## The Wastewater Contextual Data Specification Package
 
 This specification is implemented via <spreadsheet-based data collection instrument, a DataHarmonizer validation template, other...>, accompanying **Field** and **Term reference guides** (which provide definitions and additional specific guidance) and a curation **Standard Operating Procedure (SOP)**. New terms and/or term changes can be requested using issue request forms, with additional guidance on how to do so outline in the New Term Request (NTR) SOP. This resources are available in the files of this repository and listed below under **Package Contents**.
 
@@ -37,7 +40,7 @@ Please note that development of the specification is dynamic and it will be upda
 `y` = Term value / ID level changes <br>
 `z` = Definition, guidance, example, formating, or other uncategorized changes
 
-Descriptions of changes are provided in [release notes](https://github.com/cidgoh/<INSERT REPOSITORY NAME>/releases) for every new version.
+Descriptions of changes are provided in [release notes](https://github.com/cidgoh/Wastewater_Contextual_Data_Specification/releases) for every new version.
 
 ### Package Contents
 
@@ -69,7 +72,7 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 - [Online version]()
 
 ## Contacts
-For more information and/or assistance, contact <INSERT CONTACT NAME> at <INSERT CONTACT EMAIL> or submit a repository [issue request](<INSERT REPOSITORY ISSUES URL>).
+For more information and/or assistance, contact <INSERT CONTACT NAME> at <INSERT CONTACT EMAIL> or submit a repository [issue request](https://github.com/cidgoh/Wastewater_Contextual_Data_Specification/issues/new/choose).
 
 ## License
 
