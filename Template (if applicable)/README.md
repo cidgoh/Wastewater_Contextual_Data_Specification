@@ -1,4 +1,4 @@
-# <INSERT NAME> Data Collection Template
+# Wastewater Data Collection Template
 
 The contents of this directory include the spreadsheet-based implementation (i.e. metadata template) of the AMR-GRDI standard.
 
