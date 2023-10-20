@@ -38,7 +38,7 @@ Please note that development of the specification is dynamic and it will be upda
 
 `x` = Field level changes <br>
 `y` = Term value / ID level changes <br>
-`z` = Definition, guidance, example, formating, or other uncategorized changes
+`z` = Definition, guidance, example, formatting, or other uncategorized changes
 
 Descriptions of changes are provided in [release notes](https://github.com/cidgoh/Wastewater_Contextual_Data_Specification/releases) for every new version.
 
