@@ -42,9 +42,9 @@ Please note that development of the specification is dynamic and it will be upda
 
 Descriptions of changes are provided in [release notes](https://github.com/cidgoh/Wastewater_Contextual_Data_Specification/releases) for every new version.
 
-### Package Contents
+### Package Contents (IN-PROGRESS)
 
-#### Data Collection Template
+#### Data Collection Template (IN-PROGRESS)
 - [Pathogen Genomics Package (**<INSERT SPEC TEMPLATE NAME>**)](https://github.com/cidgoh/pathogen-genomics-package/releases)
   - Template schema files can be found as `.yaml`/`.json`/`.tsv` under [pathogen-genomics-package/templates/](https://github.com/cidgoh/pathogen-genomics-package/tree/main/templates)**<INSERT SPEC TEMPLATE FOLDER NAME>**
 - [DataHarmonizer App](https://github.com/cidgoh/DataHarmonizer)
@@ -52,27 +52,27 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
   - Instructions on "Getting Started" downloading and using the application can be found under **DataHarmonizer Instructions and SOP** below.
   - Further information about application functionality can be found on the [DataHarmonizer Wiki](https://github.com/cidgoh/pathogen-genomics-package/wiki/DataHarmonizer-Getting-Started).
 
-#### Field and Term Reference Guides
+#### Field and Term Reference Guides (IN-PROGRESS)
 - [XLSX version]()
 - PDF version
   - [Field Reference Guide]()
   - [Term Reference Guide]()
 - [Online version]()
 
-#### Curation SOP
+#### Curation SOP (IN-PROGRESS)
 - [PDF version]()
 - [Online version]()
 
-#### DataHarmonizer Instructions and SOP
+#### DataHarmonizer Instructions and SOP (IN-PROGRESS)
 - [PDF version]()
 - [Online version]()
 
-#### New Term Request (NTR) SOP
+#### New Term Request (NTR) SOP (IN-PROGRESS)
 - [PDF version]()
 - [Online version]()
 
 ## Contacts
-For more information and/or assistance, contact <INSERT CONTACT NAME> at <INSERT CONTACT EMAIL> or submit a repository [issue request](https://github.com/cidgoh/Wastewater_Contextual_Data_Specification/issues/new/choose).
+For more information and/or assistance, contact Dr. Emma Griffiths at <ega12@sfu.ca> or submit a repository [issue request](https://github.com/cidgoh/Wastewater_Contextual_Data_Specification/issues/new/choose).
 
 ## License
 
