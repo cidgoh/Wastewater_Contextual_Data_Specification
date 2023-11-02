@@ -80,6 +80,8 @@ _Pending / To Be Determined_
 
 ## Acknowledgements
 
-Brought to you by The [Centre for Infectious disease Genomics and One Health](https://cidgoh.ca/)<and INSERT COLLABORATOR NAMES>
+Brought to you by the [Centre for Infectious disease Genomics and One Health](https://cidgoh.ca/) and the [Public Health Alliance for Genomic Epidemiology](pha4ge.org) [Data Structures Workgroup](https://pha4ge.org/data-structures/).
 
 ![LogoCIDGOH2](https://github.com/cidgoh/specification-repo-template/assets/48695054/87fa713d-8fd7-453d-8542-fc413069e842)
+![PHA4GE-logo](https://github.com/cidgoh/Wastewater_Contextual_Data_Specification/assets/48695054/10049f9b-6048-4fcf-8d32-fbcffbb10d58)
+
