@@ -30,7 +30,17 @@ Ontologies are collections of controlled vocabulary that are arranged in a hiera
 
 ## The Wastewater Contextual Data Specification Package
 
-This specification is implemented via <spreadsheet-based data collection instrument, a DataHarmonizer validation template, other...>, accompanying **Field** and **Term reference guides** (which provide definitions and additional specific guidance) and a curation **Standard Operating Procedure (SOP)**. New terms and/or term changes can be requested using issue request forms, with additional guidance on how to do so outline in the New Term Request (NTR) SOP. This resources are available in the files of this repository and listed below under **Package Contents**.
+The PHA4GE Wastewater Contextual Data Specification Package is scoped for **data collection and sharing** (within organizations, within networks and if desired, with public repositories) of both pathogen-agnostic genomics contextual data and genotypic attributes (such as antimicrobial resistance genes) derived from amplicon-based, WGS, and metagenomic sequencing approaches.
+
+The goal of the specification is to create a **data interoperability framework** that enables exchange and communication between data generators and consumers using wastewater for surveillance, that is **extensible for other types of water-based surveillance** (e.g. agriculture-based water monitoring, freshwater and marine environmental studies, and wildlife vector investigations), and is **compatible with existing clinical and One Health standards**. The specification was designed through consultation with partners involved in different wastewater projects in **LMICs** and **HICs**. The specification package, when completed, will consist of: 
+
+1. Ontology-based, standardized terminology implemented in public health-ready templates and tools
+2. Supporting materials including terminology reference guides, a data curation SOP (containing ethical, privacy, and practical considerations for data sharing), and submission protocols
+3. Mapping schemes between commonly used wastewater standards specifying an interchange format, and tools enabling automated data transformations between the different standards (under development)
+4. A new term request system enabling users to request new fields and terms if vocabulary is missing and as data needs evolve
+
+
+This specification is implemented via the [DataHarmonizer](https://github.com/cidgoh/DataHarmonizer), accompanying **Field** and **Term reference guides** (which provide definitions and additional specific guidance) and a curation **Standard Operating Procedure (SOP)**. New terms and/or term changes can be requested using issue request forms, with additional guidance on how to do so outline in the New Term Request (NTR) SOP. This resources are available in the files of this repository and listed below under **Package Contents**.
 
 ### Version Control
 
