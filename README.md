@@ -82,9 +82,9 @@ New terms and/or term changes can be requested using [issue request forms](https
 - [Online version](https://docs.google.com/spreadsheets/d/18-w5u2hXcl0b-EH5LKEpRIsJndZ8pHLjod1VKeH0FqA/edit?usp=sharing)
 
 #### SOPs
-- Curation SOP [PDF version]() and [online version](https://docs.google.com/document/d/e/2PACX-1vQAUwv90ne1eQ8ta3SUU3uM6Dz9oWn6AoMjKfOfdTXu_qyM8MBIYMljFotkMQYVEAoZpKmfbREKsDo5/pub)
-- DataHarmonizer SOP [PDF version]() and [online version](https://docs.google.com/document/d/e/2PACX-1vT8jkHE2IysD4qgGLHDfSlVn7VdvMmb3ZHF2vN35n4x8YJHyGB4XHzFoi_QidyRMYKDPb93aZ9nxMpm/pub)
-- New Term Request SOP [PDF version]() and [online version]()
+- Curation SOP [PDF version](https://github.com/cidgoh/Wastewater_Contextual_Data_Specification/tree/main/SOPs) and [online version](https://docs.google.com/document/d/e/2PACX-1vQAUwv90ne1eQ8ta3SUU3uM6Dz9oWn6AoMjKfOfdTXu_qyM8MBIYMljFotkMQYVEAoZpKmfbREKsDo5/pub)
+- DataHarmonizer SOP [PDF version](https://github.com/cidgoh/Wastewater_Contextual_Data_Specification/tree/main/SOPs) and [online version](https://docs.google.com/document/d/e/2PACX-1vT8jkHE2IysD4qgGLHDfSlVn7VdvMmb3ZHF2vN35n4x8YJHyGB4XHzFoi_QidyRMYKDPb93aZ9nxMpm/pub)
+- New Term Request SOP [PDF version](https://github.com/cidgoh/Wastewater_Contextual_Data_Specification/tree/main/SOPs) and [online version](https://docs.google.com/document/d/e/2PACX-1vSLfdjK53wqgq9kvrPfovwtBOUQGPEOetb4rMq9t1De5A6V1iHrGZzUPfIGp-KXk3_qLiiXLSdEB5tF/pub)
 
 ### Version Control
 
