@@ -68,7 +68,7 @@ New terms and/or term changes can be requested using [issue request forms](https
 
 #### Data Collection Template 
 - [Pathogen Genomics Package (**wastewater**)](https://github.com/cidgoh/pathogen-genomics-package/releases)
-  - Template schema files can be found as `.yaml`/`.json`/`.tsv` under [pathogen-genomics-package/templates/](https://github.com/cidgoh/pathogen-genomics-package/tree/main/templates)**wastewater**
+  - Template schema files can be found as `.yaml`/`.json`/`.tsv` under [pathogen-genomics-package/templates/wastewater](https://github.com/cidgoh/pathogen-genomics-package/tree/main/templates/wastewater)
 - [DataHarmonizer App](https://github.com/cidgoh/DataHarmonizer)
   - The DataHarmonizer is a standardized browser-based spreadsheet editor and validator.
   - Instructions on "Getting Started" downloading and using the application can be found under **DataHarmonizer Instructions and SOP** below.
