@@ -5,17 +5,14 @@
   - [What is genomics contextual data and why is it important?](#what-is-genomics-contextual-data-and-why-is-it-important)
     - [What are ontologies and how do they improve data quality?](#what-are-ontologies-and-how-do-they-improve-data-quality-and-standardisation)
   - [Existing standards and creating a framework for interoperability](#existing-standards-and-creating-a-framework-for-interoperability)
-  - [The Wastewater Contextual Data Specification Package](#the--contextual-data-specification-package)
-    - [Package Contents](#package-contents)
+  - [The Wastewater Contextual Data Specification Package](#the-wastewater-contextual-data-specification-package)
+    - [Tooling and implementation](#tooling-and-implementation) 
       - [Data Collection Template](#data-collection-template)
       - [Field and Term Reference Guides](#field-and-term-reference-guides)
-      - [Curation SOP](#curation-sop)
-      - [DataHarmonizer Instructions and SOP](#dataharmonizer-instructions-and-sop)
-      - [New Term Request (NTR) SOP](#new-term-request-ntr-sop)
+      - [SOPs](#sops)
     - [Version Control](#version-control)
-  - [Contacts](#contacts)
-  - [License](#license)
-  - [Acknowledgements](#acknowledgements)
+  - [Contacts and licensing](#contacts-and-licensing)
+
 
 ## About the PHA4GE Wastewater Contextual Data Specification: An interoperable framework for wastewater microbial genomics environmental surveillance
 
@@ -55,38 +52,38 @@ Ontologies are collections of controlled vocabulary that are arranged in a hiera
 
 ## The Wastewater Contextual Data Specification Package
 
-This specification is implemented via the [DataHarmonizer](https://github.com/cidgoh/DataHarmonizer), accompanying **Field** and **Term reference guides** (which provide definitions and additional specific guidance) and a curation **Standard Operating Procedure (SOP)**. New terms and/or term changes can be requested using issue request forms, with additional guidance on how to do so outline in the New Term Request (NTR) SOP. This resources are available in the files of this repository and listed below under **Package Contents**.
+### Tooling and implementation 
+
+In order to put standards into practice, it is necessary to operationalize them with accessible, easy-to-deploy, easy-to-use tools. The [DataHarmonizer](https://github.com/cidgoh/DataHarmonizer), s a template-driven spreadsheet application for harmonizing, validating and transforming genomics contextual data into submission-ready formats for public or private repositories. This tool offers a number of curation features and validation. The PHA4GE Wastewater specification was engineered as a set of **three relevant templates** in the DataHarmonizer:
+
+1. SARS-CoV-2 surveillance template
+2. Antimicrobial resistance detection template
+3. Metagenomic based single pathogen surveillance template
+
+These wastewater templates can be found in the [Pathogen Genomics Package](https://github.com/cidgoh/pathogen-genomics-package/release). **Required** fields are colour-coded _yellow_, **recommended** fields are coloured _purple_, and **optional** fields are _white_. The DataHarmonizer provides user tutorials as well as reference guides for fields and terms. Accompanying **Field** and **Term reference guides** (which provide definitions and additional specific guidance) and a curation **Standard Operating Procedure (SOP)** listed below. 
+
+New terms and/or term changes can be requested using [issue request forms](https://github.com/cidgoh/Wastewater_Contextual_Data_Specification/issues), with additional guidance on how to do so outline in the New Term Request (NTR) SOP. 
 
 
-
-### Package Contents (IN-PROGRESS)
-
-#### Data Collection Template (IN-PROGRESS)
-- [Pathogen Genomics Package (**<INSERT SPEC TEMPLATE NAME>**)](https://github.com/cidgoh/pathogen-genomics-package/releases)
-  - Template schema files can be found as `.yaml`/`.json`/`.tsv` under [pathogen-genomics-package/templates/](https://github.com/cidgoh/pathogen-genomics-package/tree/main/templates)**<INSERT SPEC TEMPLATE FOLDER NAME>**
+#### Data Collection Template 
+- [Pathogen Genomics Package (**wastewater**)](https://github.com/cidgoh/pathogen-genomics-package/releases)
+  - Template schema files can be found as `.yaml`/`.json`/`.tsv` under [pathogen-genomics-package/templates/](https://github.com/cidgoh/pathogen-genomics-package/tree/main/templates)**wastewater**
 - [DataHarmonizer App](https://github.com/cidgoh/DataHarmonizer)
   - The DataHarmonizer is a standardized browser-based spreadsheet editor and validator.
   - Instructions on "Getting Started" downloading and using the application can be found under **DataHarmonizer Instructions and SOP** below.
   - Further information about application functionality can be found on the [DataHarmonizer Wiki](https://github.com/cidgoh/pathogen-genomics-package/wiki/DataHarmonizer-Getting-Started).
 
-#### Field and Term Reference Guides (IN-PROGRESS)
-- [XLSX version]()
-- PDF version
-  - [Field Reference Guide]()
-  - [Term Reference Guide]()
-- [Online version]()
+#### Field and Term Reference Guides
 
-#### Curation SOP (IN-PROGRESS)
-- [PDF version]()
-- [Online version]()
+- [Field Reference Guide PDF](https://github.com/cidgoh/Wastewater_Contextual_Data_Specification/tree/main/Reference%20Guide)
+- [Term Reference Guide PDF](https://github.com/cidgoh/Wastewater_Contextual_Data_Specification/tree/main/Reference%20Guide)
+- [XLSX version](https://github.com/cidgoh/Wastewater_Contextual_Data_Specification/tree/main/Reference%20Guide)
+- [Online version](https://docs.google.com/spreadsheets/d/18-w5u2hXcl0b-EH5LKEpRIsJndZ8pHLjod1VKeH0FqA/edit?usp=sharing)
 
-#### DataHarmonizer Instructions and SOP (IN-PROGRESS)
-- [PDF version]()
-- [Online version]()
-
-#### New Term Request (NTR) SOP (IN-PROGRESS)
-- [PDF version]()
-- [Online version]()
+#### SOPs
+- Curation SOP [PDF version]() and [online version]()
+- DataHarmonizer SOP [PDF version]() and [online version]()
+- New Term Request SOP [PDF version]() and [online version]()
 
 ### Version Control
 
@@ -98,15 +95,15 @@ Please note that development of the specification is dynamic and it will be upda
 
 Descriptions of changes are provided in [release notes](https://github.com/cidgoh/Wastewater_Contextual_Data_Specification/releases) for every new version.
 
-## Contacts
+## Contacts and licensing
+
+**Contacts**
 For more information and/or assistance, contact Dr. Emma Griffiths at <ega12@sfu.ca> or submit a repository [issue request](https://github.com/cidgoh/Wastewater_Contextual_Data_Specification/issues/new/choose).
 
-## License
-
+** License**
 _Pending / To Be Determined_
 
-## Acknowledgements
-
+**Acknowledgements**
 Brought to you by the [Centre for Infectious disease Genomics and One Health](https://cidgoh.ca/) and the [Public Health Alliance for Genomic Epidemiology](pha4ge.org) [Data Structures Workgroup](https://pha4ge.org/data-structures/).
 
 ![LogoCIDGOH2](https://github.com/cidgoh/specification-repo-template/assets/48695054/87fa713d-8fd7-453d-8542-fc413069e842)
