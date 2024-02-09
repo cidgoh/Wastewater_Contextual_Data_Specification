@@ -82,8 +82,8 @@ New terms and/or term changes can be requested using [issue request forms](https
 - [Online version](https://docs.google.com/spreadsheets/d/18-w5u2hXcl0b-EH5LKEpRIsJndZ8pHLjod1VKeH0FqA/edit?usp=sharing)
 
 #### SOPs
-- Curation SOP [PDF version]() and [online version](https://docs.google.com/document/d/1UmyPlpW10eE8pHAPjKb5ufUZ4U6KNiWE2bTyRI2-G5U/edit?usp=sharing)
-- DataHarmonizer SOP [PDF version]() and [online version](https://docs.google.com/document/d/1ooPsAPxjby-280txCzDwh24FMvl_Zs7TZW7p5et7gho/edit?usp=sharing)
+- Curation SOP [PDF version]() and [online version](https://docs.google.com/document/d/e/2PACX-1vQAUwv90ne1eQ8ta3SUU3uM6Dz9oWn6AoMjKfOfdTXu_qyM8MBIYMljFotkMQYVEAoZpKmfbREKsDo5/pub)
+- DataHarmonizer SOP [PDF version]() and [online version](https://docs.google.com/document/d/e/2PACX-1vT8jkHE2IysD4qgGLHDfSlVn7VdvMmb3ZHF2vN35n4x8YJHyGB4XHzFoi_QidyRMYKDPb93aZ9nxMpm/pub)
 - New Term Request SOP [PDF version]() and [online version]()
 
 ### Version Control
