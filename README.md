@@ -101,7 +101,8 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 **Contacts**
 For more information and/or assistance, contact Dr. Emma Griffiths at <ega12@sfu.ca> or submit a repository [issue request](https://github.com/cidgoh/Wastewater_Contextual_Data_Specification/issues/new/choose).
 
-** License**
+**License**
+
 _Pending / To Be Determined_
 
 **Acknowledgements**
