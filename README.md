@@ -99,6 +99,7 @@ Descriptions of changes are provided in [release notes](https://github.com/cidgo
 ## Contacts and licensing
 
 **Contacts**
+
 For more information and/or assistance, contact Dr. Emma Griffiths at <ega12@sfu.ca> or submit a repository [issue request](https://github.com/cidgoh/Wastewater_Contextual_Data_Specification/issues/new/choose).
 
 **License**
@@ -106,6 +107,7 @@ For more information and/or assistance, contact Dr. Emma Griffiths at <ega12@sfu
 _Pending / To Be Determined_
 
 **Acknowledgements**
+
 Brought to you by the [Centre for Infectious disease Genomics and One Health](https://cidgoh.ca/) and the [Public Health Alliance for Genomic Epidemiology](pha4ge.org) [Data Structures Workgroup](https://pha4ge.org/data-structures/).
 
 ![LogoCIDGOH2](https://github.com/cidgoh/specification-repo-template/assets/48695054/87fa713d-8fd7-453d-8542-fc413069e842)
