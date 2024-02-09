@@ -1,4 +1,4 @@
-# The Wastewater Contextual Data Specification
+# The PHA4GE Wastewater Contextual Data Specification
 
   - [About the PHA4GE Wastewater Contextual Data Specification](#about-the-pha4ge-wastewater-contextual-data-specification-an-interoperable-framework-for-wastewater-microbial-genomics-environmental-surveillance)
   - [Integration with the international wastewater surveillance ecosystem?](#integration-with-the-international-wastewater-surveillance-ecosystem)
