@@ -83,7 +83,7 @@ New terms and/or term changes can be requested using [issue request forms](https
 
 #### SOPs
 - Curation SOP [PDF version]() and [online version](https://docs.google.com/document/d/1UmyPlpW10eE8pHAPjKb5ufUZ4U6KNiWE2bTyRI2-G5U/edit?usp=sharing)
-- DataHarmonizer SOP [PDF version]() and [online version]()
+- DataHarmonizer SOP [PDF version]() and [online version](https://docs.google.com/document/d/1ooPsAPxjby-280txCzDwh24FMvl_Zs7TZW7p5et7gho/edit?usp=sharing)
 - New Term Request SOP [PDF version]() and [online version]()
 
 ### Version Control
