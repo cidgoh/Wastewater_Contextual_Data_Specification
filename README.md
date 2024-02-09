@@ -61,7 +61,7 @@ In order to put standards into practice, it is necessary to operationalize them 
 2. Antimicrobial resistance detection template
 3. Metagenomic based single pathogen surveillance template
 
-These wastewater templates can be found in the [Pathogen Genomics Package](https://github.com/cidgoh/pathogen-genomics-package). **Required** fields are colour-coded _yellow_, **recommended** fields are coloured _purple_, and **optional** fields are _white_. The DataHarmonizer provides user tutorials as well as reference guides for fields and terms. Accompanying **Field** and **Term reference guides** (which provide definitions and additional specific guidance) and a curation **Standard Operating Procedure (SOP)** listed below. 
+These wastewater templates can be found in the [Pathogen Genomics Package](https://github.com/cidgoh/pathogen-genomics-package/releases). **Required** fields are colour-coded _yellow_, **recommended** fields are coloured _purple_, and **optional** fields are _white_. The DataHarmonizer provides user tutorials as well as reference guides for fields and terms. Accompanying **Field** and **Term reference guides** (which provide definitions and additional specific guidance) and a curation **Standard Operating Procedure (SOP)** listed below. 
 
 New terms and/or term changes can be requested using [issue request forms](https://github.com/cidgoh/Wastewater_Contextual_Data_Specification/issues), with additional guidance on how to do so outline in the New Term Request (NTR) SOP. 
 
@@ -82,7 +82,7 @@ New terms and/or term changes can be requested using [issue request forms](https
 - [Online version](https://docs.google.com/spreadsheets/d/18-w5u2hXcl0b-EH5LKEpRIsJndZ8pHLjod1VKeH0FqA/edit?usp=sharing)
 
 #### SOPs
-- Curation SOP [PDF version]() and [online version]()
+- Curation SOP [PDF version]() and [online version](https://docs.google.com/document/d/1UmyPlpW10eE8pHAPjKb5ufUZ4U6KNiWE2bTyRI2-G5U/edit?usp=sharing)
 - DataHarmonizer SOP [PDF version]() and [online version]()
 - New Term Request SOP [PDF version]() and [online version]()
 
