@@ -6,7 +6,7 @@ The contents of this directory include the spreadsheet-based implementation (i.e
 
 # Wastewater Data Collection Template
 
-Welcome to the Wastewater Data Collection Template repository!
+Welcome to the Wastewater Data Collection Template repository! This specification is designed to be used with the DataHarmonizer application. To use one of the wastewater templates, please go to the most recent [pathogen genomics package](https://github.com/cidgoh/pathogen-genomics-package/releases/tag/PGPv5.0.1)
 
 The template directory contains .tsv files for reference purposes of the use case wastewater specifications only. Please refrain from using these files as templates, as the DataHarmoniser templates will be made available shortly. Instead, they serve as references for current field and picklist values.
 
