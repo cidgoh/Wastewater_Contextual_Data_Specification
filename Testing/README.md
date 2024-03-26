@@ -1,4 +1,4 @@
-**PHA4GE Wastewater subgrant testing call out**
+## PHA4GE Wastewater subgrant testing call out
 
 The PHA4GE Wastewater Contextual Data Specification Package provides structured terminology and templates for collecting wastewater data related to SARS-CoV-2 surveillance, AMR detection, and pathogen identification. It includes guidance, examples, and utilizes a validation tool called DataHarmonizer. Developed collaboratively with public health and wastewater experts, it supports data collection, harmonization, and sharing. Users have discretion over its usage and sharing, following organization-specific policies. 
 
@@ -6,11 +6,12 @@ The testing phase aims to ensure utility, applicability, and ease-of-use through
 
 To complete training you will need the following documents and tools
 
-***Documents***
+### Documents
 - [Curation SOP](https://docs.google.com/document/d/e/2PACX-1vQAUwv90ne1eQ8ta3SUU3uM6Dz9oWn6AoMjKfOfdTXu_qyM8MBIYMljFotkMQYVEAoZpKmfbREKsDo5/pub) and [DataHarmonizer SOP](https://docs.google.com/document/d/e/2PACX-1vT8jkHE2IysD4qgGLHDfSlVn7VdvMmb3ZHF2vN35n4x8YJHyGB4XHzFoi_QidyRMYKDPb93aZ9nxMpm/pub)
 - [Reference guide](https://github.com/pha4ge/Wastewater_Contextual_Data_Specification/tree/main/Reference%20Guide)
 - Worked examples
 
 
-***Tools***
+### Tools
+
 This specification utilizes the [DataHarmonizer](https://github.com/cidgoh/pathogen-genomics-package/releases). You will need to download the most recent package.
