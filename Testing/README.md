@@ -1,0 +1,5 @@
+The PHA4GE Wastewater Contextual Data Specification Package provides structured terminology and templates for collecting wastewater data related to SARS-CoV-2 surveillance, AMR detection, and pathogen identification. It includes guidance, examples, and utilizes a validation tool called DataHarmonizer. Developed collaboratively with public health and wastewater experts, it supports data collection, harmonization, and sharing. Users have discretion over its usage and sharing, following organization-specific policies. 
+
+The testing phase aims to ensure utility, applicability, and ease-of-use through community-based assessments, fostering dialogue and improvement. Feedback is encouraged, with users taking part in the PHA4GE sub-grants requested to complete the [feedback form]() with guidance provided in this document. If you are not a part of the sub-grants but are still interested to test the specification, please contact Emma Griffiths emma_griffiths@sfu.ca
+
+Additional training is available upon request. For enquiries, contact datastructures@pha4ge.org.
