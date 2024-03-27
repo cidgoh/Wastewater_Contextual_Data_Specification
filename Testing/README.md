@@ -4,12 +4,12 @@ The PHA4GE Wastewater Contextual Data Specification Package provides structured 
 
 The testing phase aims to ensure utility, applicability, and ease-of-use through community-based assessments, fostering dialogue and improvement. Feedback is encouraged, with users taking part in the PHA4GE sub-grants requested to complete the [feedback form]() with guidance provided in this document. If you are not a part of the sub-grants but are still interested to test the specification, please contact Emma Griffiths emma_griffiths@sfu.ca. Additional training is available upon request. For enquiries, contact datastructures@pha4ge.org.
 
-To complete training you will need the following documents and tools
+To complete training you will need the following documents and tools:
 
 ***Documents***
 - [Curation SOP](https://docs.google.com/document/d/e/2PACX-1vQAUwv90ne1eQ8ta3SUU3uM6Dz9oWn6AoMjKfOfdTXu_qyM8MBIYMljFotkMQYVEAoZpKmfbREKsDo5/pub) and [DataHarmonizer SOP](https://docs.google.com/document/d/e/2PACX-1vT8jkHE2IysD4qgGLHDfSlVn7VdvMmb3ZHF2vN35n4x8YJHyGB4XHzFoi_QidyRMYKDPb93aZ9nxMpm/pub)
 - [Reference guide](https://github.com/pha4ge/Wastewater_Contextual_Data_Specification/tree/main/Reference%20Guide)
-- Worked examples
+- [Worked examples](https://github.com/pha4ge/Wastewater_Contextual_Data_Specification/blob/main/Testing/PHA4GE_Wastewater-Specification-Worked-Examples_v1-0.pdf)
 
 
 ***Tools***
