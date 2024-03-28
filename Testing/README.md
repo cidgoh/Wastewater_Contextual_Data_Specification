@@ -10,7 +10,7 @@ To complete training you will need the following documents and tools:
 - [Curation SOP](https://docs.google.com/document/d/e/2PACX-1vQAUwv90ne1eQ8ta3SUU3uM6Dz9oWn6AoMjKfOfdTXu_qyM8MBIYMljFotkMQYVEAoZpKmfbREKsDo5/pub) and [DataHarmonizer SOP](https://docs.google.com/document/d/e/2PACX-1vT8jkHE2IysD4qgGLHDfSlVn7VdvMmb3ZHF2vN35n4x8YJHyGB4XHzFoi_QidyRMYKDPb93aZ9nxMpm/pub)
 - [Reference guide](https://github.com/pha4ge/Wastewater_Contextual_Data_Specification/tree/main/Reference%20Guide)
 - [Worked examples](https://github.com/pha4ge/Wastewater_Contextual_Data_Specification/blob/main/Testing/PHA4GE_Wastewater-Specification-Worked-Examples_v1-0.pdf)
-
+- [Testing instructions](https://github.com/pha4ge/Wastewater_Contextual_Data_Specification/blob/main/Testing/PHA4GE_Wastewater_Testing-Instructions.pdf)
 
 ### Tools
 
