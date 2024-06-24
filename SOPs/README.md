@@ -1,6 +1,6 @@
 # Wastewater Curation Standard Operating Procedures
 
-The contents of this directory include standard operating procedure(s) (SOP) to accompany the template-based implementation of the <INSERT NAME> contextual data specification.
+The contents of this directory include standard operating procedure(s) (SOP) to accompany the template-based implementation of the Wastewater contextual data specification. 
 
 ## Files
 
