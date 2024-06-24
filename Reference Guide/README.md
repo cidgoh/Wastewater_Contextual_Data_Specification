@@ -1,6 +1,6 @@
 # Wastewater Contextual Data Reference Guide
 
-The contents of this directory include field and term reference guides to accompany the template-based implementation of the <INSERT NAME> contextual data specification. Reference guides provide ontology IDs, definitions, and specific curation guidance.
+The contents of this directory include field and term reference guides to accompany the template-based implementation of the Wastewater contextual data specification. Reference guides provide ontology IDs, definitions, and specific curation guidance.
 
 ## Version Information
 
