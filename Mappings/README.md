@@ -21,7 +21,9 @@ Examples: Example values to demonstrate the mapping.
 ## How to Use
 
 **Review the mappings:** Open the relevant Excel file to understand how fields in the Wastewater Contextual Data Specification map to the target standard.
+
 **Implement transformations:** Use the provided transformation logic to adapt your data for compatibility with the target standard.
+
 **Contribute updates:** If you notice inaccuracies or have suggestions for improvements, please open an issue or submit a pull request to this repository.
 
 ## Contribution Guidelines
