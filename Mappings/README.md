@@ -11,11 +11,13 @@ This folder contains mappings from the **Wastewater Contextual Data Specificatio
 
 Each Excel file includes the following columns:
 
-Source Field: Field name in the Wastewater Contextual Data Specification.
-Target Field: Corresponding field name in the external standard.
-Description: Brief explanation of the target field and its purpose.
-Transformation Logic (optional): Details about how the source field maps to the target field, including any transformations applied.
-Examples: Example values to demonstrate the mapping.
+Source ID: The ontology ID attributed to the source field in the PHA4GE Wastewater Contextual Data Specification (e.g., GENEPIO:0001123).
+Source field title: The name/title attributed to the PHA4GE field in the Wastewater Contextual Data Specification.
+Target field title: Corresponding field name in the external standard.
+Target Field Type: The data type of the target field (e.g., string, integer).
+Transformation rule: A broad category that describes the transformation rule used to map the source field to the target field (e.g., one to one, concatenate).
+Details: Additional information or instructions for the mapping, such as specific considerations or contextual notes (e.g. "in target_field concatenate values from 'sequencing protocol' and 'genomic target enrichment method' ").
+
 
 
 ## How to Use
