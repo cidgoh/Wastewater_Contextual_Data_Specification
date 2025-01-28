@@ -4,21 +4,39 @@ This folder contains mappings from the **Wastewater Contextual Data Specificatio
 
 ## Contents
 
-- NCBI_mapping.xlsx: Maps fields from the PHA4GE Wastewater Contextual Data Specification to existing packages including; NCBI Biosample, SRA and ENA.
-- PHES_ODM_mapping.xlsx
+- `NCBI_PHA4GE-Wastewater_mapping.xlsx`: Maps fields from the PHA4GE Wastewater Contextual Data Specification to existing attributes packages including; NCBI BioSample SARS-CoV-2_wwsurv and sequence read archive (SRA).
+- `ENA_PHA4GE-Wastewater_mapping.xlsx`: Maps fields from the PHA4GE Wastewater Contextual Data Specification to existing packages including; ERC000023: GSC MIxS wastewater sludge and ERC000036 ENA sewage checklist.
+- `PHES_ODM_mapping.xlsx`: Maps fields from the PHA4GE Wastewater Contextual Data Specification to the PHES-ODM structure. 
 
 ## Excel File Structure
 
-Each Excel file includes the following columns:
+### PHA4GE to NCBI
 
-Source ID: The ontology ID attributed to the source field in the PHA4GE Wastewater Contextual Data Specification (e.g., GENEPIO:0001123).
-Source field title: The name/title attributed to the PHA4GE field in the Wastewater Contextual Data Specification.
-Target field title: Corresponding field name in the external standard.
-Target Field Type: The data type of the target field (e.g., string, integer).
-Transformation rule: A broad category that describes the transformation rule used to map the source field to the target field (e.g., one to one, concatenate).
-Details: Additional information or instructions for the mapping, such as specific considerations or contextual notes (e.g. "in target_field concatenate values from 'sequencing protocol' and 'genomic target enrichment method' ").
+**SRA_template:** The metadata attributes for SRA submission, including picklists. For reference only.
+**SARS-CoV-2_wwsurv_template:** The metadata attributes for a BioSample submission, including picklists, for the SARS-CoV-2_wwsurv package. For reference only.
+**PHA4GEWW_to_NCBISRA_fields:** The mapping for the PHA4GE fields to the INSDC equivalent.
+- Source ID: The ontology ID attributed to the source field in the PHA4GE Wastewater Contextual Data Specification (e.g., GENEPIO:0001123).
+- Source field title: The name/title attributed to the PHA4GE field in the Wastewater Contextual Data Specification.
+- Target field title: Corresponding field name in the external standard.
+- Target field type: The data type of the target field (e.g., string, integer).
+- Transformation rule: A broad category that describes the transformation rule used to map the source field to the target field (e.g., one to one, concatenate).
+- Details: Additional information or instructions for the mapping, such as specific considerations or contextual notes (e.g. "in target_field concatenate values from 'sequencing protocol' and 'genomic target enrichment method' ").
+**PHA4GEWW_to_NCBISARS-CoV-2_wwsurv_fields:** The mapping for the PHA4GE fields to the INSDC equivalent.
+- Source ID: The ontology ID attributed to the source field in the PHA4GE Wastewater Contextual Data Specification (e.g., GENEPIO:0001123).
+- Source field title: The name/title attributed to the PHA4GE field in the Wastewater Contextual Data Specification.
+- Target field title: Corresponding field name in the external standard.
+- Target field type: The data type of the target field (e.g., string, integer).
+- Transformation rule: A broad category that describes the transformation rule used to map the source field to the target field (e.g., one to one, concatenate).
+- Details: Additional information or instructions for the mapping, such as specific considerations or contextual notes (e.g. "in target_field concatenate values from 'sequencing protocol' and 'genomic target enrichment method' ").
+**PHA4GEWW_to_NCBIALL_values:** The mapping for values from the PHA4GE Wastewater Contextual Data Specification to their NCBI equivalent
+- SOURCE_field: The name of the PHA4GE field (e.g. 'sequencing assay') and associated values (e.g. 'Whole genome sequencing')
+-TARGET_field: The name of the NCBI equivalent field (e.g. 'library_strategy') and equivalent value (e.g. WGS)
 
+### PHA4GE to ENA
 
+PHA4GEWW_to_ENAERC000023_fields: The mapping for the PHA4GE fields to the INSDC equivalent.
+
+***To be updated***
 
 ## How to Use
 
