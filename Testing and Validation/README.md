@@ -3,11 +3,12 @@
 This directory contains materials to support the validation and testing of datasets formatted according to the Wastewater Contextual Data Specification.
 
 ## Contents
-- *Worked Example Scenarios*: These provide sample datasets and "answer keys" for common use cases. Users can compare their datasets against these examples to ensure proper formatting and validation.
-- *Validation Guidance*: Documentation and tools to help check data consistency, including explanations of validation rules.
-- *Subgrant Call Information*: Details about the subgrant testing and collaborative efforts related to this project.
+- **Worked Example Scenarios**: These provide sample datasets and "answer keys" for common use cases. Users can compare their datasets against these examples to ensure proper formatting and validation.
+- **Validation Guidance**: Documentation and tools to help check data consistency, including explanations of validation rules.
+- **Subgrant Call Information**: Details about the subgrant testing and collaborative efforts related to this project.
 
 ## How to use these resources
+To get familiar with the wastewater DataHarmonizer templates, we recommend initially reviewing the worked example scenario's. The answer keys (please note there are different answer keys for the different templates) can be opened directly in the DataHarmonizer, and demonstrate how different scenario's can be structured.
 
 ## PHA4GE Wastewater subgrant testing call out
 
